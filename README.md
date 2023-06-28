@@ -1,5 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
+[![](https://visitcount.itsvg.in/api?id=Maaz-07&icon=0&color=12)](https://visitcount.itsvg.in)
+
 ## About Me
 
 Hey there! I'm Maaz, a zealous programmer with a love for coding and problem-solving. I enjoy working on diverse projects and expanding my skills in various technologies. Here's a little bit about me:
@@ -17,9 +19,6 @@ Hey there! I'm Maaz, a zealous programmer with a love for coding and problem-sol
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Maaz-07&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maaz-07&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Maaz-07&icon=0&color=12)](https://visitcount.itsvg.in)
-
 ## Get in Touch
 
 I'm always eager to connect with fellow developers and learn from each other. Feel free to reach out to me through the following channels:
@@ -28,3 +27,5 @@ I'm always eager to connect with fellow developers and learn from each other. Fe
 - 💼 LinkedIn: [Muhammad Moaz](https://www.linkedin.com/in/muhammad-moaz-17853b202/)
 
 Let's collaborate, share ideas, and build amazing things together! 😄
+
+---
